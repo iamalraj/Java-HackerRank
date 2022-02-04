@@ -6,21 +6,21 @@
 
       Input Format
 
-	  The first line of input contains two integers N and M: representing the total number of integers and the size of the 
-	  subarray, respectively. The next line contains N space separated integers.
+	The first line of input contains two integers N and M: representing the total number of integers and the size of the 
+	subarray, respectively. The next line contains N space separated integers.
 	  
-	  Output Format
+      Output Format
 
-	  Print the maximum number of unique integers among all possible contiguous subarrays of size M.
+	Print the maximum number of unique integers among all possible contiguous subarrays of size M.
+ 
+      Sample Input
 
-	  Sample Input
-
-	  6 3
-      5 3 5 2 3 2
+      	6 3
+      	5 3 5 2 3 2
 
       Sample Output
 
-      3
+      	3
  
  */
 
